@@ -4,7 +4,7 @@
 // new Date().getDay(). da como resultado el dia de la semana del 0-6 siendo 0-Domingo y asi sucesivamente
 
 const businessHours = () => {
-    //  data
+    //  date
     let today = new Date();
     let day = today.getDay();
     // hour
